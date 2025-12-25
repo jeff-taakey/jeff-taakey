@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Jeff Taakey 👋
+**Founder & Chief Architect at Stonehenge EdTech**
 
-<!--
-**jeff-taakey/jeff-taakey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a veteran System Architect with over 21 years of experience in building enterprise-grade systems. My mission is to bridge the gap between high-level engineering and professional education.
 
-Here are some ideas to get you started:
+### 🏛️ My Professional Ecosystem
+* **[Stonehenge EdTech](https://github.com/stonehenge-edtech)**: The core architectural engine and parent organization.
+* **[CertDevPro](https://CertDevPro.com)**: Empowering developers with IT certifications and production-ready insights.
+* **[Stem Expert Pro](https://github.com/stem-expert-pro)**: Training the next generation for USACO, AMC, and beyond.
+* **[Finance Cert Pro](https://github.com/finance-cert-pro)**: Mastering CFA, FRM, and Quantitative Analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Focus
+`Cloud Architecture` | `High-Performance Systems` | `FinTech` | `AI-Driven Education`
+
+---
+"Architecture is not just about building systems; it's about designing future-proof logic."
