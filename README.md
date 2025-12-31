@@ -25,9 +25,10 @@ I believe in a rigorous foundation of both technical and management theory:
 Following my most recent academic journey in Hong Kong, I launched the **Stonehenge EdTech** ecosystem to share advanced, practical technical knowledge with the global developer community.
 
 I currently oversee three specialized pillars:
-* **[CertDevPro](https://CertDevPro.com)**: Professional IT certification & high-performance engineering.
-* **[Stem Expert Pro](https://github.com/stem-expert-pro)**: Elite logic and competition training (USACO, AMC, Robotics).
-* **[Finance Cert Pro](https://github.com/finance-cert-pro)**: Bridging Finance and Tech through CFA, FRM, and Quant Mastery.
+* **[DevPro Portal](https://DevProPortal.com)**: A comprehensive **Engineering Resource** hub featuring 5861+ technical guides, system design patterns, and toolkits.
+* **[Cert DevPro](https://CertDevPro.com)**: Our flagship **Certification Mastery** hub, providing architect-level roadmaps for AI, Cloud (AWS/Azure), Security, and PMP.
+* **[Stem Expert Pro](https://StemExpertPro.com)**: Elite **Logic & STEM Competition** training (USACO, AMC, Robotics) for the next generation of innovators.
+* **[Finance Cert Pro](https://FinanceCertPro.com)**: High-end financial certification prep and **Quantitative Analysis** for elite CFA, FRM, and Quant professionals.
 
 ---
 
